@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - About Me.qmd
+      - Media.qmd
+      - Projects.qmd
     tools:
       - icon: github
         href: https://github.com/chloed77/MT412-E-Portfolio
@@ -18,9 +20,12 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+
 
 
 

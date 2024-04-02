@@ -1,0 +1,15 @@
+---
+title: "About Me"
+---
+
+## Bibliography 
+- Name 
+- Career aspirations
+
+## Resume
+- Add
+
+## Hobbies
+- football
+- travel
+- music

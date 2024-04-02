@@ -1,11 +1,43 @@
 ---
-title: "MT412 E-Portfolio - Chloe Downes"
+title: "Chloe Downes"
+
+about:
+  id: hero-heading
+  template: trestles
+  image: IMG_8067.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/chloe-d-653992174/
+    - icon: github
+      text: Github
+      href: https://github.com/chloed77/MT412---E-Portfolio---Chloe-Downes
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+UPDATE
 
-```{r}
-1 + 1
-```
+Mini paragraph about self.
+
+## Education
+
+UPDATE
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+UPDATE
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
+
+### This content appears below the formatted about page content.
