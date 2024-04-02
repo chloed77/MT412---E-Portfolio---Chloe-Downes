@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MT412 E-Portfolio - Chloe Downes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/chloed77/MT412-E-Portfolio
+  page-footer: 
+    left: "Chloe Downes, 2024"    
+    right: "Built with [Quorto](https://quarto.org/)" 
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+
+
