@@ -10,7 +10,7 @@ website:
         text: Home
       - About Me.qmd
       - Media.qmd
-      - Projects.qmd
+      - Portfolio.qmd
       - Resume.qmd
     tools:
       - icon: github
