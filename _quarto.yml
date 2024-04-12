@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "MT412 E-Portfolio - Chloe Downes"
+  title: "Data Portfolio - Chloe Downes"
   navbar:
     left:
       - href: index.qmd
