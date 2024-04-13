@@ -12,6 +12,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/chloed77/MT412---E-Portfolio---Chloe-Downes
+    - icon: briefcase
+      text: Resume
+      href: https://github.com/chloed77/MT412---E-Portfolio---Chloe-Downes/blob/0c80963c336fb0e2b0a5a62e2798a0cacb047392/CV.pdf
 ---
 
 :::{#hero-heading}
