@@ -3,7 +3,5 @@ title: "Resume"
 
 href: https://github.com/chloed77/MT412-E-Portfolio
 
-<p>Download my resume <a href="CV.pdf" download>here</a>.</p>
-
 ---
 
