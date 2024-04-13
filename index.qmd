@@ -19,28 +19,35 @@ about:
 
 :::{#hero-heading}
 
-UPDATE
+Hello! My name is Chloe Downes. I am a final-year business studies student specializing in data analytics at DCU. 
 
-Mini paragraph about self.
+I am an ambitious, hardworking individual who works well both as an individual and as part of a team. I possess strong communication skills and develop my problem solving skills from dealing with a wide range of customers and manager.
 
 ## Education
 
-UPDATE
+#### DCU 
+Dublin City University | Dublin, Ireland
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Bachelor of Business Studies | Sept 2022 - May 2024
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+#### Coláiste Dhúlaigh
+Coláiste Dhúlaigh | Dublin, Ireland
+
+Distinction award in Certificate in Management | Sept 2021 - June 2022
 
 ## Experience
 
-UPDATE
+#### Finance Intern
+Finance intern | Abco Kovex 
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+September 2022 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+#### Checkout Operator
+
+Checkout Operator | SuperValu Santry 
+
+Sept 2019 - April 2022
 
 :::
 
-### This content appears below the formatted about page content.
