@@ -11,6 +11,7 @@ website:
       - About Me.qmd
       - Media.qmd
       - Portfolio.qmd
+      - Resume.qmd
     tools:
       - icon: github
         href: https://github.com/chloed77/MT412-E-Portfolio
